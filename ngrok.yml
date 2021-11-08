@@ -1,0 +1,11 @@
+authtoken: 20J0YRb04Oq7ZodeVkq9AYPqKUn_7hV4mezHGcqCSkMPCekLW
+
+tunnels:
+  rest:
+    proto: http
+    addr: 3000
+    bind_tls: true
+  wss:
+    proto: http
+    addr: 8081
+    bind_tls: true
